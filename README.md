@@ -6,7 +6,7 @@ THIS IS NOT AN ACCURATE PREDICTION.
 -------------------------------------------------------------------------------------------------------------------------------
 UPDATE:
 
-marchmadnessprob.py uses methods from previous files and adds a new data source from kenpom.com. Due to kenpom.com blocking requests, I downloaded the page as an html file. You will need to do so in order to run the program properly. Due to adding KenPom defense rank in the calculation, it is slightly more accurate in it's predictions. The formula to find the probability is 0.5 + srs - (defense rank) / 50. This was a general probability formula.
+marchmadnessprob.py uses methods from previous files and combines them so there is no need for datascraper.py or srscalc.py. The difference is that in this program, it uses KenPom Defense rank data to determine the probability. Due to kenpom.com blocking requests, I downloaded the page as an html file. You will need to do so in order to run the program properly. Due to adding KenPom defense rank in the calculation, it is slightly more accurate in it's predictions. The formula to find the probability is 0.5 + srs - (defense rank) / 50. This was a general probability formula.
 
 
 In the next update, there will hopefully be a gui paired with the program so the user will be able to input a team and get their statistics in return. Another possible update in the future is making it an .exe file so it can run on any Windows computer.
