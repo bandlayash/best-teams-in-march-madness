@@ -1,4 +1,4 @@
-# best-teams-in-march-madness
+# MARCH MADNESS PREDICTIONS
 2023 Men's NCAA Basketball Simple Rating Score Calculator
 
 THIS IS NOT AN ACCURATE PREDICTION.
